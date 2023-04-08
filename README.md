@@ -1,23 +1,14 @@
 # blog
 
 #### 介绍
+
 博客
 
-#### 软件架构
-软件架构说明
+## 1.JS 系列
 
+#### [写一个函数方法实现 new 表达式功能](https://github.com/tiger5wang/blog/issues/2#issue-480964794)
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### [写一个函数方法实现 instanceof 关系操作符 功能](https://github.com/tiger5wang/blog/issues/3#issue-480965074)
 
 #### 参与贡献
 
@@ -26,10 +17,9 @@
 3.  提交代码
 4.  新建 Pull Request
 
-
 #### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+1.  使用 Readme_XXX.md 来支持不同的语言，例如 Readme_en.md, Readme_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
 3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
 4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
